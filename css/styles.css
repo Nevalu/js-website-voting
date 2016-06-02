@@ -1,0 +1,24 @@
+#over-18, #under-18 {
+  display: none;
+}
+
+body{
+  background-color: lightblue;
+}
+
+.elephant-showing {
+  display: none;
+}
+
+.donkey-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: darkblue;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
